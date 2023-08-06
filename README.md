@@ -21,7 +21,7 @@ We used it at the public launch of my university's [Science DMZ](https://fasterd
 
 ### Big Red Button
 
-- Yellow wire connecting microswitch common terminal to Teensy++ B7,
+- Thin yellow wire connecting microswitch common terminal to Teensy++ B7,
 - Thin white wire connecting LED anode terminal to Teensy++ D6,
 - Thick white wire connecting microswitch NO terminal, LED cathode terminal, and one side of toggle switch
 
@@ -30,7 +30,7 @@ We used it at the public launch of my university's [Science DMZ](https://fasterd
 ### Toggle Switch
 
 - Thick white wire connecting one side of toggle switch to Big Red Button,
-- Black wire connecting same side of toggle switch to Teensy++ GND,
-- Red wire connecting other side of toggle switch to Teensy++ D0
+- Thin black wire connecting same side of toggle switch to Teensy++ GND,
+- Thin red wire connecting other side of toggle switch to Teensy++ D0
 
 ![toggle Switch](images/toggle_detail.png)
