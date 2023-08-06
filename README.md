@@ -45,3 +45,8 @@ We used it at the public launch of my university's [Science DMZ](https://fasterd
 
 Found in [big_red_dmz_button.ino](big_red_dmz_button.ino).
 Should be easy to follow, and you can easily change which IO pins the switches are connected to and what key combination you want to send when they're both switched.
+
+## TODO
+
+- Use other digital inputs to decide if the button should send a Ctrl-V, Ctrl-Shift-V, Command-V, and possibly send an Enter key afterwards.
+- 
