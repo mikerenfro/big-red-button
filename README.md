@@ -50,4 +50,3 @@ Should be easy to follow, and you can easily change which IO pins the switches a
 ## TODO
 
 - Use other digital inputs to decide if the button should send a Ctrl-V, Ctrl-Shift-V, Command-V, and possibly send an Enter key afterwards.
-- 
