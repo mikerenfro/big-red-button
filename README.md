@@ -29,7 +29,8 @@ We used it at the public launch of my university's [Science DMZ](https://fasterd
 
 ### Toggle Switch
 
-- Thick white wire connecting one side of toggle switch to Big Red Button and to Teensy++ GND,
+- Thick white wire connecting one side of toggle switch to Big Red Button,
+- Thin black wire connecting same side of toggle switch to Teensy++ GND,
 - Red wire connecting other side of toggle switch to Teensy++ D0
 
 ![toggle Switch](images/toggle_detail.png)
