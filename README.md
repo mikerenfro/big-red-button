@@ -4,6 +4,7 @@ It's big.
 It's red.
 In this exceedingly theatric reference implementation, it'll send a Ctrl-V to whatever USB host it's connected to.
 We used it at the public launch of my university's [Science DMZ](https://fasterdata.es.net/science-dmz/) to start a set of big downloads, so that the assembled VIPs could watch a Grafana bandwidth gauge redline.
+Could be used for any launch, decommissioning, or other special occasion.
 
 ![Science DMZ Launch Event](images/dmz_launch_event.jpg)
 
