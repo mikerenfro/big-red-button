@@ -5,6 +5,12 @@ It's red.
 In this exceedingly theatric reference implementation, it'll send a Ctrl-V to whatever USB host it's connected to.
 We used it at the public launch of my university's [Science DMZ](https://fasterdata.es.net/science-dmz/) to start a set of big downloads, so that the assembled VIPs could watch a Grafana bandwidth gauge redline.
 
+![Science DMZ Launch Event](images/dmz_launch_event.jpg)
+
+## Demo Video
+
+![Big Red Button Demo Video](movies/big_red_button.mov)
+
 ## Components
 
 1. [Big Dome Pushbutton - Red](https://www.sparkfun.com/products/9181) from Sparkfun
@@ -34,3 +40,8 @@ We used it at the public launch of my university's [Science DMZ](https://fasterd
 - Thin red wire connecting other side of toggle switch to Teensy++ D0
 
 ![toggle Switch](images/toggle_detail.png)
+
+## Code
+
+Found in [big_red_dmz_button.ino](big_red_dmz_button.ino).
+Should be easy to follow, and you can easily change which IO pins the switches are connected to and what key combination you want to send when they're both switched.
